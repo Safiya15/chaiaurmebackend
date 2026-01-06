@@ -33,7 +33,6 @@ The Node.js backend uses Express to create simple REST-style routes.
 | GET  | /instagram   | Sample route response               |
 
 ### 🔁 Sample Response
-```json
 "pls login here"
 How to Run the Node Backend Locally
 Prerequisites
